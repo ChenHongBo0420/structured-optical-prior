@@ -1,0 +1,33 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Generated outputs and downloaded datasets
+/results/*
+!/results/.gitkeep
+/figures_josa/
+/data/
+/datasets/
+/mnist.npz
+*.log
+
+# Local editor and operating-system files
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key

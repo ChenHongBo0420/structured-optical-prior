@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the associated article when using this research code."
+title: "Structured Optical Prior"
+type: software
+authors:
+  - family-names: Chen
+    given-names: Hongbo
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Chen
+      given-names: Hongbo
+  title: "Interference-enabled structured optical priors in dual-branch photonic networks"
+  journal: "Journal of the Optical Society of America B"
+  year: 2026
+  volume: "43"
+  issue: "10"
+  doi: "10.1364/JOSAB.607960"

@@ -1,0 +1,9 @@
+# Python 3.9-3.11. Keras/TensorFlow provide the original MNIST loader.
+numpy==1.26.4
+scipy==1.13.1
+numba==0.60.0
+matplotlib==3.9.4
+pandas==2.2.3
+keras==2.15.0
+tensorflow==2.15.1
+neuroptica==0.1.0
