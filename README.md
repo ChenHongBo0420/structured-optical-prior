@@ -2,7 +2,7 @@
 
 Research code accompanying **Interference-enabled structured optical priors in dual-branch photonic networks**, by Hongbo Chen.
 
-[Paper: JOSA B (2026)](https://doi.org/10.1364/JOSAB.607960) | [MIT License](LICENSE) | [中文说明](README.zh-CN.md)
+[Paper: JOSA B (2026)](https://doi.org/10.1364/JOSAB.607960) | [MIT License](LICENSE)
 
 This repository packages the author's supplied Neuroptica implementation of structured optical classifiers. It includes single- and dual-branch models, coherent and incoherent readout, fixed-basis and input-representation ablations, phase-noise sweeps, device-nonideality studies, and plotting scripts.
 
